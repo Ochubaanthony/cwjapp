@@ -29,3 +29,4 @@
 /Users/anthonyochuba/Desktop/cwjapp/cwjapp/obj/Release/net7.0/cwjapp.pdb
 /Users/anthonyochuba/Desktop/cwjapp/cwjapp/obj/Release/net7.0/cwjapp.genruntimeconfig.cache
 /Users/anthonyochuba/Desktop/cwjapp/cwjapp/obj/Release/net7.0/ref/cwjapp.dll
+/Users/anthonyochuba/Desktop/cwjapp/cwjapp/obj/Release/net7.0/cwjapp.sourcelink.json
